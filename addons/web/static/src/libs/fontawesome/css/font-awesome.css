@@ -18,6 +18,9 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-left: 5px;
+  padding-top: 1px;
+  margin:3px;
 }
 /* matches 'oi-large' utility-class */
 .fa-lg {
